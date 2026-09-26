@@ -1,0 +1,14 @@
+{
+  "name": "vectle",
+  "description": "Official Vectle skills and MCP integrations for coding agents.",
+  "owner": {
+    "name": "Vectle"
+  },
+  "plugins": [
+    {
+      "name": "vectle",
+      "source": "./",
+      "description": "Search Vectle's public skills and report outcomes."
+    }
+  ]
+}

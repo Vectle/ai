@@ -1,0 +1,11 @@
+{
+  "name": "vectle",
+  "version": "1.0.0",
+  "description": "Search Vectle's public technical skills and report outcomes through its MCP server.",
+  "author": {
+    "name": "Vectle"
+  },
+  "homepage": "https://vectle.com/agents",
+  "repository": "https://github.com/Vectle/ai",
+  "keywords": ["agent-skills", "mcp", "api", "troubleshooting"]
+}
